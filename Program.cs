@@ -7,13 +7,13 @@ btn.Click();
 btn.Click();
 
 
-interface ILight
+interface SwitchableDevice
 {
     public void TurnOn();
     public void TurnOff();
 }
 
-public class Lamp : ILight
+public class Lamp : SwitchableDevice
 {
     public void TurnOff()
     {
@@ -29,18 +29,18 @@ public class Lamp : ILight
 
 class Button
 {
-    public Button(ILight lamp) { this.lamp = lamp; }
+    public Button(SwitchableDevice device) { this.device = device; }
 
     public void Click()
     {
         if (bPressed)
-            lamp?.TurnOff();
+            device?.TurnOff();
         else
-            lamp?.TurnOn();
+            device?.TurnOn();
 
         bPressed = !bPressed;
     }
 
     private bool bPressed;
-    private ILight lamp;
+    private SwitchableDevice device;
 }
