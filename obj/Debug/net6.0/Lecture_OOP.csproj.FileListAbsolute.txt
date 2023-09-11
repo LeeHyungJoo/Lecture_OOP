@@ -1,0 +1,15 @@
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\obj\Debug\net6.0\Lecture_OOP.csproj.AssemblyReference.cache
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\obj\Debug\net6.0\Lecture_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\obj\Debug\net6.0\Lecture_OOP.AssemblyInfoInputs.cache
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\obj\Debug\net6.0\Lecture_OOP.AssemblyInfo.cs
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\obj\Debug\net6.0\Lecture_OOP.csproj.CoreCompileInputs.cache
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\bin\Debug\net6.0\Lecture_OOP.exe
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\bin\Debug\net6.0\Lecture_OOP.deps.json
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\bin\Debug\net6.0\Lecture_OOP.runtimeconfig.json
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\bin\Debug\net6.0\Lecture_OOP.dll
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\bin\Debug\net6.0\Lecture_OOP.pdb
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\obj\Debug\net6.0\Lecture_OOP.dll
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\obj\Debug\net6.0\refint\Lecture_OOP.dll
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\obj\Debug\net6.0\Lecture_OOP.pdb
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\obj\Debug\net6.0\Lecture_OOP.genruntimeconfig.cache
+C:\Users\prism9411\source\repos\Lecture_OOP\Lecture_OOP\obj\Debug\net6.0\ref\Lecture_OOP.dll
