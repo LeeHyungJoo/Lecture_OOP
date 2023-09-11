@@ -1,20 +1,35 @@
 ﻿
+
+
 var btn = new Button(new Lamp());
 btn.Click();
 btn.Click();
 btn.Click();
 
 
-class Lamp
+interface ILight
 {
-    public Lamp() { }
-    public void TurnOn() { Console.WriteLine("turn on"); }
-    public void TurnOff() { Console.WriteLine("turn off"); }
+    public void TurnOn();
+    public void TurnOff();
 }
+
+public class Lamp : ILight
+{
+    public void TurnOff()
+    {
+        Console.WriteLine("Turn Off");
+    }
+
+    public void TurnOn()
+    {
+        Console.WriteLine("Turn On");
+    }
+}
+
 
 class Button
 {
-    public Button(Lamp lamp) { this.lamp = lamp; }
+    public Button(ILight lamp) { this.lamp = lamp; }
 
     public void Click()
     {
@@ -27,5 +42,5 @@ class Button
     }
 
     private bool bPressed;
-    private Lamp lamp;
+    private ILight lamp;
 }
