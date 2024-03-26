@@ -53,3 +53,9 @@ dkms.conf
 *.db
 *.user
 Lecture_OOP/.vs/Lecture_OOP/v15/Browse.VC.opendb
+Lecture_OOP/Lecture_OOP/Debug/Lecture_OOP.tlog/CL.read.1.tlog
+Lecture_OOP/Lecture_OOP/Debug/Lecture_OOP.tlog/Lecture_OOP.lastbuildstate
+Lecture_OOP/.vs/Lecture_OOP/v15/ipch/AutoPCH/27a4bf80d47563a8/LECTURE_OOP.ipch
+Lecture_OOP/.vs/Lecture_OOP/v15/ipch/AutoPCH/27a4bf80d47563a8/LECTURE_OOP.ipch
+*.log
+*.tlog
